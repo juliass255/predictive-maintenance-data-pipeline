@@ -137,7 +137,7 @@ The dataset is highly imbalanced (approximately 3.4% failures), therefore Precis
 
 ##  Feature Importance
 
-![Feature Importance](images/feature_importance.png)
+![Feature Importance](Saídas/imagens/feature_importance.png)
 ---
 
 ##  Repository Structure
