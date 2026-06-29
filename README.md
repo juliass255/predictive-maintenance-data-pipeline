@@ -117,10 +117,27 @@ The dataset is highly imbalanced (approximately 3.4% failures), therefore Precis
 
 ---
 
-##  Feature Importance
+## 📊 Dataset Distribution
 
-![Feature Importance](feature_importance.png)
+![Failure Distribution](images/failure_distribution.png)
 
+---
+
+## 🔧 Failure Rate by Wear Level
+
+![Wear Level](images/wear_level.png)
+
+---
+
+## 🏭 Failure Rate by Machine Type
+
+![Machine Type](images/failure_rate_machine_type.png)
+
+---
+
+## 🤖 Feature Importance
+
+![Feature Importance](images/feature_importance.png)
 ---
 
 ##  Repository Structure
