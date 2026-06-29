@@ -125,7 +125,7 @@ The dataset is highly imbalanced (approximately 3.4% failures), therefore Precis
 
 ##  Failure Rate by Wear Level
 
-![Wear Level](images/wear_level.png)
+![Wear Level](outputs/images/wear_level.png)
 
 ---
 
